@@ -1,0 +1,1354 @@
+{
+  "products": [
+    {
+      "dateAdded": 1657492485175,
+      "listedBy": "Owner",
+      "propertyArea": "5000 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "All",
+      "propertyContact": "+91930000000",
+      "propertyDesc": "This property for shop and office",
+      "propertyDisLike": [],
+      "propertyFeatures": [
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Balcony,balcony",
+        "Bathroom(Attached),bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 4$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "UnFurnished",
+      "propertyId": "RP10000",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O766142%2F1657701560347.jpg?alt=media&token=541db936-5a64-4b80-a66e-229452fa02a1",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O766142%2F1657701559839.jpg?alt=media&token=c2dac0e4-40ad-439d-9f98-e45af3d7d404",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O766142%2F1657701560566.jpg?alt=media&token=89a98530-50c9-4b6a-9d1d-d47f82bb1014",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O766142%2F1657701560831.jpg?alt=media&token=bc26aead-91f5-4f61-8a1b-ec58b034ad94",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/ Property%2FR2022O766142%2F1657701561086.jpg?alt=media&token=95a94d53-736b-4deb-b389-7d5ee2bd8dba"
+      ],
+      "propertyLike": ["+916266000000"],
+      "propertyLocation": [
+        "Kanya parisar road, Gangapur Khurd, Ambikapur, Chhattisgarh",
+        "23.1149293,83.1761422"
+      ],
+      "propertyPrice": 60000,
+      "propertyType": "Commercial",
+      "restriction": null,
+      "verified": true
+    },
+    {
+      "dateAdded": 1657994304386,
+      "listedBy": "Owner",
+      "propertyArea": "900 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "All",
+      "propertyContact": "+919400000000",
+      "propertyDesc": "For shop at near Polytechnic college ",
+      "propertyFeatures": ["Water,water", "Electricity (Chargeable),power"],
+      "propertyFloor": "Total Floor : 0$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10001",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O101639%2F1657553438102.jpg?alt=media&token=1ac49adf-291f-4bed-8e34-36b6124ca08b",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O101639%2F1657553438391.jpg?alt=media&token=8f4ce2a4-394f-432f-b5cc-08e81d776818",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O101639%2F1657553437651.jpg?alt=media&token=900cbbd7-9a89-4044-99eb-49074c40aa3a"
+      ],
+      "propertyLocation": [
+        "Near polytechnic college, Ring road, Namnakala, Ambikapur, Chhattisgarh",
+        "23.1265505,83.1839643"
+      ],
+      "propertyPrice": 30000,
+      "propertyType": "Commercial",
+      "restriction": null,
+      "verified": true
+    },
+    {
+      "dateAdded": 1657995302518,
+      "listedBy": "Owner",
+      "propertyArea": "810 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "91810000000",
+      "propertyDesc": "1BHK at Bhagwanpur khurd near Central school ",
+      "propertyFeatures": [
+        "Water,water",
+        "Parking,parking",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom"
+      ],
+      "propertyFloor": "Total Floor : 0$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10002",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O812181%2F1657027348554.jpg?alt=media&token=734cc57d-f794-4d15-8869-11b6e3c6cb98",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O812181%2F1657027348689.jpg?alt=media&token=22a1d830-1f28-4145-b3eb-d8e7a0984604",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O812181%2F1657027348744.jpg?alt=media&token=bb78d754-a335-4c1b-9103-3e718cdbf290"
+      ],
+      "propertyLocation": [
+        "Ward no.1, front of Central school Mahatma Gandhi Road near sai residency bhagwanpur khurd, Ambikapur, Chhattisgarh",
+        "23.144957599999998,83.1593326"
+      ],
+      "propertyPrice": 3500,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658060530143,
+      "listedBy": "Owner",
+      "propertyArea": "1000 sq.ft",
+      "propertyAvailability": "Booked",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "917999000000",
+      "propertyDesc": "1BHK Flat at namnakala ",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Shelves(Rack),shelves",
+        "Window,windows",
+        "Parking,parking"
+      ],
+      "propertyFloor": "Total Floor : 4$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10003",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O61001%2FIMG20220717182012.jpg?alt=media&token=03f0d441-1a97-465f-aeed-5bc4840d2bf4"
+      ],
+      "propertyLocation": [
+        "behind Mahamaya Petrol Pump, Namnakala, Ambikapur, Chhattisgarh",
+        "23.1197055,83.1812068"
+      ],
+      "propertyPrice": 8000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658062941427,
+      "listedBy": "Owner",
+      "propertyArea": "1000 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "9194000000",
+      "propertyDesc": "1BHK flat  in namnakala for girl and family",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10004",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O636432%2F1658062930718.jpg?alt=media&token=761b92df-6825-43f8-a4c4-7c861b4c89c3"
+      ],
+      "propertyLocation": [
+        "behind mahamaya petrol pump, Namnakala, Ambikapur, Chhattisgarh",
+        "23.1197303,83.1815226"
+      ],
+      "propertyPrice": 5000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658063616742,
+      "listedBy": "Owner",
+      "propertyArea": "1000 sq.ft",
+      "propertyAvailability": "Booked",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "9197500000",
+      "propertyDesc": "Single room for family in namkala",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Non Chargeable),bill",
+        "Bathroom(Sharable),share_bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10005",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O524503%2F1658063608421.jpg?alt=media&token=a6473a56-6e44-4263-a62d-0d53c8423c80"
+      ],
+      "propertyLocation": [
+        "behind Mahamaya Petrol Pump, Namnakala, Ambikapur, Chhattisgarh",
+        "23.1197055,83.1812068"
+      ],
+      "propertyPrice": 5000,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658064022484,
+      "listedBy": "Owner",
+      "propertyArea": "1200 sq.ft",
+      "propertyAvailability": "Booked",
+      "propertyAvailableFor": "Girls/Boys/Family",
+      "propertyContact": "917000000000",
+      "propertyDesc": "1BHK in namnakala for rent",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10006",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O984855%2F1658064000988.jpg?alt=media&token=4eb5436f-fe87-422a-8820-4165a24b4b4f",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O984855%2F1658064001505.jpg?alt=media&token=57deeabf-1a3f-4f7a-8947-c8badffaa41c",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O984855%2F1658064002079.jpg?alt=media&token=76c9d007-a1a3-4b10-b80e-012a539d8db5",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O984855%2F1658064001818.jpg?alt=media&token=417f7a27-7153-4f39-9806-d67ce730da70",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O984855%2F1658064002362.jpg?alt=media&token=1a0e078a-72b1-45ea-91d2-65059af367ca",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O984855%2F1658064002615.jpg?alt=media&token=b65a13f5-146e-4904-be0e-3acd844933c4",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O984855%2F1658064002860.jpg?alt=media&token=a2e7a048-a61b-4f12-8130-97d1787b3160"
+      ],
+      "propertyLocation": [
+        "behind Mahamaya Petrol Pump, Namnakala, Ambikapur, Chhattisgarh",
+        "23.1197055,83.1812068"
+      ],
+      "propertyPrice": 6000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658064249667,
+      "listedBy": "Owner",
+      "propertyArea": "285 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "All",
+      "propertyContact": "917000000000",
+      "propertyDesc": "hall for shop or godown in namnakala ",
+      "propertyFeatures": ["Electricity (Non Chargeable),bill"],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10007",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O117599%2F1658064240717.jpg?alt=media&token=1f4e06ef-162b-4329-95fc-0723b5091c45",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O117599%2F1658064240279.jpg?alt=media&token=153cefa7-d30f-4a9b-99c5-57c6e623732c"
+      ],
+      "propertyLocation": [
+        "behind Mahamaya Petrol Pump, Namnakala, Ambikapur, Chhattisgarh",
+        "23.1197055,83.1812068"
+      ],
+      "propertyPrice": 4000,
+      "propertyType": "Commercial",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658065351538,
+      "listedBy": "Owner",
+      "propertyArea": "1100 sq.ft",
+      "propertyAvailability": "Booked",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "919111000000",
+      "propertyDesc": "1BHK flat in namnakala for family ",
+      "propertyFeatures": [
+        "Water,water",
+        "Bathroom(Attached),bathroom",
+        "Electricity (Chargeable),power",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 2$2nd Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10008",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O870474%2FIMG-20220718-WA0000.jpg?alt=media&token=bc287359-b592-4d99-8681-765d1e6bb6ce",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O870474%2FIMG-20220718-WA0001.jpg?alt=media&token=99033fa0-5cae-4fad-b2b9-1ee43d18c6b9",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O870474%2FIMG-20220718-WA0002.jpg?alt=media&token=3cbf2ad8-f361-4cb9-8a00-a3e1c28dd52f",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O870474%2FIMG-20220718-WA0003.jpg?alt=media&token=9693539d-c923-4209-a11d-5a38013a4771"
+      ],
+      "propertyLocation": [
+        "Sherya niwas, Maya woman gali, Namnakala, Ambikapur, Chhattisgarh",
+        "23.1222478,83.1776728"
+      ],
+      "propertyPrice": 7000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658075337265,
+      "listedBy": "Owner",
+      "propertyArea": "1000 sq.ft",
+      "propertyAvailability": "Booked",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "+91 9111200000",
+      "propertyDesc": "1BHK flat for Family and working woman in namnakala ",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 3$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10009",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O475473%2F1658075324546.jpg?alt=media&token=fbaeec43-d3b7-4a21-b1ba-1a8c642dba6d",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O475473%2F1658075324750.jpg?alt=media&token=1eb39ff2-53b6-4db7-abf8-60d027774027",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O475473%2F1658075324816.jpg?alt=media&token=1d08a529-6eea-4d09-9c88-1340cb17e897"
+      ],
+      "propertyLocation": [
+        "Shreya niwas, Maya woman gali, Namnakala, Ambikapur, Chhattisgarh",
+        "23.121795799999997,83.1788948"
+      ],
+      "propertyPrice": 6500,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658075628074,
+      "listedBy": "Owner",
+      "propertyArea": "1100 sq.ft",
+      "propertyAvailability": "Booked",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "+91 9111200000",
+      "propertyDesc": "1BHK flat for family only in namnakala with full facilities ",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 3$2nd Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10010",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O379218%2F1658075609367.jpg?alt=media&token=1379708e-85a1-41d6-b3d4-7fefad7dd1fd",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O379218%2F1658075609434.jpg?alt=media&token=2ab5f359-9632-4497-8209-dfdbd80afb75",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O379218%2F1658075609483.jpg?alt=media&token=067066d8-5db8-4b8f-9aca-1e6c4a45b337",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O379218%2F1658075609532.jpg?alt=media&token=fe67c28f-c913-45db-9f37-aab5046a5534"
+      ],
+      "propertyLocation": [
+        "Shreya niwas, Maya woman gali, Namnakala, Ambikapur, Chhattisgarh",
+        "23.1218376,83.17882689999999"
+      ],
+      "propertyPrice": 6500,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658190788219,
+      "listedBy": "Owner",
+      "propertyArea": "1000 sq.ft",
+      "propertyAvailability": "Booked",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "+916264700000",
+      "propertyDesc": "2BHK flat at front of singh boys hostel for family ",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10011",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O424200%2F1658190770311.jpg?alt=media&token=eacfb996-19f8-45f6-aa94-493a7e09f228",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O424200%2F1658190770437.jpg?alt=media&token=d200b544-81cb-4c2b-a493-bdc914c21f3d",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O424200%2F1658190770499.jpg?alt=media&token=ae654671-d0e5-41f1-bd97-89e2412a60e0",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O424200%2F1658190770544.jpg?alt=media&token=b71bd81f-4e95-42df-afbd-316411f87e13",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O424200%2F1658190770589.jpg?alt=media&token=2951c9a0-7390-4e05-b7c2-aca50df0e460",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O424200%2F1658190770632.jpg?alt=media&token=4d15efb4-c20b-4147-a121-eee8e3a6be96",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O424200%2F1658190770668.jpg?alt=media&token=867f948f-8eaf-4252-a5ad-14c4c34580e3"
+      ],
+      "propertyLocation": [
+        "rajendra nagar Marg, front of singh boys hostel, Gandhi Nagar, Ambikapur, Chhattisgarh",
+        "23.143719500000003,83.1787428"
+      ],
+      "propertyPrice": 7000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658386382533,
+      "listedBy": "Owner",
+      "propertyArea": "450 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "91834000000",
+      "propertyDesc": "Room rent for family and Girls",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Non Chargeable),bill",
+        "Bathroom(Sharable),share_bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Semi Furnished",
+      "propertyId": "RP10012",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O737438%2F1658385983373.jpg?alt=media&token=64574696-b737-41e1-82b8-be4645873f93",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O737438%2F1658385984184.jpg?alt=media&token=9c3af684-1ad5-40df-964a-de25e2b27cec",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O737438%2F1658385984869.jpg?alt=media&token=3e0b2703-dd59-4641-bb73-18f2435f83d8"
+      ],
+      "propertyLocation": [
+        "Keshri mohalla, Garhwa, Jharkhand",
+        "24.154898199999998,83.7995617"
+      ],
+      "propertyPrice": 3000,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658735857682,
+      "listedBy": "Owner",
+      "propertyArea": "215 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Boys/Family",
+      "propertyContact": "9193400000",
+      "propertyDesc": "Single room with attached kitchen and bathroom ",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10013",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O447128%2F1658735848411.png?alt=media&token=19ecb402-738f-4e9c-b91c-bbbd092bbae6"
+      ],
+      "propertyLocation": [
+        "Thangan para, Bhagawan Pur, Ambikapur, Chhattisgarh",
+        "23.125437700000003,83.2018849"
+      ],
+      "propertyPrice": 3500,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": false,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658737188615,
+      "listedBy": "Owner",
+      "propertyArea": "1700 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "91942500000",
+      "propertyDesc": "2BHK flat at Thanganpara near Multipurpose school ",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 3$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10014",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O472676%2F1658737179024.png?alt=media&token=d9b2d186-9d9a-44b5-8174-7c02366a22cb"
+      ],
+      "propertyLocation": [
+        "School road, annu kirana store, Thangan para, Ambikapur, Chhattisgarh",
+        "23.125566900000003,83.20161770000001"
+      ],
+      "propertyPrice": 10000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": false,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658737576590,
+      "listedBy": "Owner",
+      "propertyArea": "1700 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "+919425200000",
+      "propertyDesc": "2BHK flat at Thanganpara near Multipurpose school",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 3$2nd Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Semi Furnished",
+      "propertyId": "RP10015",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660402227423.jpg?alt=media&token=4bbc19b9-f6de-43a3-8496-6f48db5e5482",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660402227726.jpg?alt=media&token=ce50fd33-de73-4ac3-aa05-b88c2035ba28",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660402227803.jpg?alt=media&token=0541fc76-e2b6-4a40-8c72-b0b85c278d19",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660402227877.jpg?alt=media&token=ac1d7738-4268-4ce8-a8fe-2830c3fccc01",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660402227960.jpg?alt=media&token=d67be9a5-adc0-4233-a85e-0ec8d45270f4",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660402228043.jpg?alt=media&token=a707fe40-c996-4819-848b-63fef9af5f4d"
+      ],
+      "propertyLocation": [
+        "46G2+89P, Thangan para, Ambikapur, Chhattisgarh",
+        "23.125843,83.200954"
+      ],
+      "propertyPrice": 8000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658738127963,
+      "listedBy": "Owner",
+      "propertyArea": "200 sq.ft",
+      "propertyAvailability": "Booked",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "9179997000000",
+      "propertyDesc": "Single room with kitchen and bathroom ",
+      "propertyFeatures": [
+        "Parking,parking",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom"
+      ],
+      "propertyFloor": "Total Floor : 0$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10016",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660022309169.jpg?alt=media&token=08745273-7604-4aee-a02d-2de85f38c9ed",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660022308922.jpg?alt=media&token=0a05e129-24ab-4de9-a108-c21488baea0e",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660022309252.jpg?alt=media&token=eea8dd1d-ddea-4e2b-b4f9-f729899504e1",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660022309327.jpg?alt=media&token=1f0a66a9-8066-4ff6-a1e5-b0001c8097dd"
+      ],
+      "propertyLocation": [
+        "Near Shiv mandir, Thanganpara, Ambikapur, Chhattisgarh",
+        "23.1254553,83.2018578"
+      ],
+      "propertyPrice": 3000,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658744203719,
+      "listedBy": "Owner",
+      "propertyArea": "550 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "917000400000",
+      "propertyDesc": "1Bhk flat at Mahadev gali near Ma Kali Temple ",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 2$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10017",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O939110%2Fimg1.jpeg?alt=media&token=9b62259e-03e5-4515-9cb5-8da7686ae554",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O939110%2Fimg2.jpeg?alt=media&token=72055423-f311-4b3d-9c0a-a5dfd83093e1",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O939110%2Fimg3.jpeg?alt=media&token=26835108-5f20-405f-917d-ee23ed547b98",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O939110%2Fimg4.jpeg?alt=media&token=ed132923-346a-479d-b409-eeacf9550258",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O939110%2Fimg5.jpeg?alt=media&token=006fa245-5909-47b3-8ad8-0fffc114277f",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O939110%2Fimg6.jpeg?alt=media&token=fdd81c38-fb46-49a5-a0ee-f89291a31a75"
+      ],
+      "propertyLocation": [
+        "Mahadev gali, Bauri para, Ambikapur, Chhattisgarh",
+        "23.1266446,83.21277169999999"
+      ],
+      "propertyPrice": 5000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658744567598,
+      "listedBy": "Owner",
+      "propertyArea": "550 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "9170000000",
+      "propertyDesc": "1BHK flat at Mahadev gali near Ma Kali Temple\n",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 2$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10018",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O216932%2Fimg1.jpeg?alt=media&token=6aa795b7-3c5c-4f3b-9c41-c09697fc02c2",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O216932%2Fimg2.jpeg?alt=media&token=dba1b817-ad00-4e36-829b-6a86a00cd492",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O216932%2Fimg3.jpeg?alt=media&token=e560c3b6-22a5-4a9b-b437-ed80d17898c1",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O216932%2Fimg4.jpeg?alt=media&token=712d5926-deec-4066-bd05-bf06f5472dde",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O216932%2Fimg5.jpeg?alt=media&token=1051f734-2c5a-4359-840f-f3bd3a2942aa",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O216932%2Fimg6.jpeg?alt=media&token=7dea0ce8-50e5-4ced-b287-82d149be43cf"
+      ],
+      "propertyLocation": [
+        "Mahadev Gali, ward no.22, Bauri para, Ambikapur, Chhattisgarh",
+        "23.1289443,83.2102125"
+      ],
+      "propertyPrice": 5000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+     {
+      "dateAdded": 1658745230660,
+      "listedBy": "Owner",
+      "propertyArea": "125 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Boys/Family",
+      "propertyContact": "91916580000",
+      "propertyDesc": "Room with attached Bathroom",
+      "propertyFeatures": [
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom"
+      ],
+      "propertyFloor": "Total Floor : 2$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10019",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O191373%2F1658745219652.png?alt=media&token=9f78bbe0-6bb5-4b94-acd1-92c7aa7e35ca"
+      ],
+      "propertyLocation": [
+        "Mahadev gali, near Maa Kali Temple, Bauri para, Ambikapur, Chhattisgarh",
+        "23.1314486,83.2128863"
+      ],
+      "propertyPrice": 2000,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": false,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658745846207,
+      "listedBy": "Owner",
+      "propertyArea": "450 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "919406000000",
+      "propertyDesc": "1BHK with Pooja room",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10020",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1663045938923.jpg?alt=media&token=a442ba4f-06e4-49e0-966d-0e69296580dd",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1663045938773.jpg?alt=media&token=a67baca5-cccd-42ac-b1c1-a1d7eff74658",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1663045939004.jpg?alt=media&token=71e44e5a-ac81-4472-bdea-d9aadaa8d801",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1663045938960.jpg?alt=media&token=6a94d1c6-0b61-40b6-aa15-b48141770fc5",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1663045939100.jpg?alt=media&token=9b34933b-9606-491c-a91f-16cd3022d46d",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1663045939204.jpg?alt=media&token=798d8fcf-ac52-4659-8bac-879852c0fc8e"
+      ],
+      "propertyLocation": [
+        "Mahadev gali, near Maa Kali Temple, Bauri para, Ambikapur, Chhattisgarh",
+        "23.1318938,83.2128591"
+      ],
+      "propertyPrice": 5000,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658746682929,
+      "listedBy": "Owner",
+      "propertyArea": "480 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Boys/Family",
+      "propertyContact": "91808500000",
+      "propertyDesc": "2BHK flat for all at kedarpur ",
+      "propertyFeatures": [
+        "Water,water",
+        "Parking,parking",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 2$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10021",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O781989%2F1658746676557.png?alt=media&token=be1c322b-ee4c-4e6f-af2d-882eae4a1382"
+      ],
+      "propertyLocation": [
+        "Near mission hospital, Kedarpur, Ambikapur, Chhattisgarh",
+        "23.1334804,83.19576239999999"
+      ],
+      "propertyPrice": 5500,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": false,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658747054620,
+      "listedBy": "Owner",
+      "propertyArea": "750 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "91877000000",
+      "propertyDesc": "2BHK flat for family only at kedarpur ",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 2$2nd Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10022",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O182684%2F1658747046205.png?alt=media&token=d2c68ed3-2b1b-41e1-86e4-b0bc21e226f4"
+      ],
+      "propertyLocation": [
+        "Near holy cross nursing college, Kedarpur, Ambikapur, Chhattisgarh",
+        "23.1349214,83.1952723"
+      ],
+      "propertyPrice": 5500,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": false,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658747383351,
+      "listedBy": "Owner",
+      "propertyArea": "2500 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Boys/Family",
+      "propertyContact": "91877040000",
+      "propertyDesc": "2BHK flat for all with full features at kedarpur",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Balcony,balcony",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 2$2nd Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10023",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O34716%2F1658747376034.png?alt=media&token=047388c9-74cf-45d7-a309-62fcd024eba1"
+      ],
+      "propertyLocation": [
+        "Near Holi cross nursing college, Kedarpur, Ambikapur, Chhattisgarh",
+        "23.1349214,83.1952723"
+      ],
+      "propertyPrice": 6500,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": false,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1658991079967,
+      "listedBy": "Owner",
+      "propertyArea": "600 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "9179990000",
+      "propertyDesc": "1BHK flat in Thanganpara",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 3$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10024",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O494873%2F1658991047179.jpg?alt=media&token=b2502feb-b918-4d49-bce9-aa173b935531",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O494873%2F1658991048117.jpg?alt=media&token=bda0114a-1b01-46f7-a6c6-c81f97e9eab6",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O494873%2F1658991049747.jpg?alt=media&token=4ee81d93-e307-4257-abe1-6b8a696be417",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O494873%2F1658991048885.jpg?alt=media&token=e211b84b-cd47-4a30-948b-e960cadcc056"
+      ],
+      "propertyLocation": [
+        "Near kotwali police thana, infront of shubh traders, Thanganpara, Ambikapur, Chhattisgarh",
+        "23.1242246,83.20166069999999"
+      ],
+      "propertyPrice": 5000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1659357093984,
+      "listedBy": "Owner",
+      "propertyArea": "450 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Family",
+      "propertyContact": "91982600000",
+      "propertyDesc": "Room for family and girl\n",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10025",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O313085%2F1659357081581.jpg?alt=media&token=c208673a-43a0-40cb-a914-a859037fe94c",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O313085%2F1659357080587.jpg?alt=media&token=0c327c8f-4c5e-47d4-9d99-c17860f6527d",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O313085%2F1659357082422.jpg?alt=media&token=241784b7-d600-4a37-8ffd-752e46cb8c33",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O313085%2F1659357083210.jpg?alt=media&token=c59c1814-7e4a-412d-ad22-b08acd38b721"
+      ],
+      "propertyLocation": [
+        "Gulmohar gali, Mayapur, Near Chandni chowk, Ambikapur, Chhattisgarh",
+        "23.124544399999998,83.2034245"
+      ],
+      "propertyPrice": 4000,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1659501340420,
+      "listedBy": "Owner",
+      "propertyArea": "200 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "All",
+      "propertyContact": "91982600000",
+      "propertyDesc": "Single room with bathroom near Maa Mahamaya temple ",
+      "propertyFeatures": [
+        "Water,water",
+        "Electricity (Non Chargeable),bill",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Semi Furnished",
+      "propertyId": "RP10026",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O810147%2F1659501307661.jpg?alt=media&token=41fbf2ac-43fd-4913-b83d-b2a31321212b",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O810147%2F1659501308588.jpg?alt=media&token=b3f1d5cf-70b3-4d4d-871b-b722b7b09198"
+      ],
+      "propertyLocation": [
+        "4695+4HG, Sai Ward No-20, Mahamaya para, Ambikapur, Chhattisgarh",
+        "23.1178182,83.2089599"
+      ],
+      "propertyPrice": 4000,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1659501723995,
+      "listedBy": "Owner",
+      "propertyArea": "150 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "All",
+      "propertyContact": "91982600000",
+      "propertyDesc": "Single room with attached bathroom at Mahamaya para",
+      "propertyFeatures": [
+        "Water,water",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves",
+        "Electricity (Non Chargeable),bill"
+      ],
+      "propertyFloor": "Total Floor : 1$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10027",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O606153%2F1659501715082.jpg?alt=media&token=8c683a30-5928-4e87-bd6e-39789aeb64f6",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O606153%2F1659501714107.jpg?alt=media&token=fad2b02e-e577-41d7-812b-73c96e4515ba"
+      ],
+      "propertyLocation": [
+        "4695+4HG, Sai Ward No-20, Mahamaya para, Ambikapur, Chhattisgarh",
+        "23.1178182,83.2089599"
+      ],
+      "propertyPrice": 3000,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1659764116750,
+      "listedBy": "Rento Team",
+      "propertyArea": "2000 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Famil",
+      "propertyContact": "+9175000000",
+      "propertyDesc": "added by vivek 2BHK Flat for student and family",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Electricity (Non Chargeable),bill",
+        "Balcony,balcony",
+        "Parking,parking"
+      ],
+      "propertyFloor": "Total Floor : 2$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Furnished",
+      "propertyId": "RP10028",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660049677270.jpg?alt=media&token=bc1e7129-5a2f-4044-90ab-83d291a5ba4e",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660049677064.jpg?alt=media&token=e6b78221-fddd-4355-8e5d-4ce7f44b36a1",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2F1660045996457.jpg?alt=media&token=b713f37e-d544-4693-98b0-f68ae734c6e0"
+      ],
+      "propertyLocation": [
+        "Sector - 2, Dutta Colony, in front of budhia dharmkanta, Ambikavani, Ambikapur, Chhattisgarh",
+        "23.131366399999997,83.1799169"
+      ],
+      "propertyPrice": 10000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": false,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1659931877464,
+      "listedBy": "Owner",
+      "propertyArea": "2000 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "+91837000000",
+      "propertyDesc": "House for family at Dutta colony",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Semi Furnished",
+      "propertyId": "RP10029",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O473302%2F1659931877643.jpg?alt=media&token=9154ad5b-8477-4fec-b9bd-b783f07d19f0",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O473302%2F1659931877471.jpg?alt=media&token=7b5f740d-1563-43bc-8d4b-92ac5749c7ef",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O473302%2F1659931877709.jpg?alt=media&token=e85d83f9-01e0-46b0-8495-b9a482fca301",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O473302%2F1659931877768.jpg?alt=media&token=63e5423c-7d20-4770-846e-c86e8673fabd",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O473302%2F1659931877925.jpg?alt=media&token=3f49a049-a52e-4ca8-b2c1-38d6aadd6a4c",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O473302%2F1659931877834.jpg?alt=media&token=d73eba87-889b-4e55-b450-db9b8d12b74c",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O473302%2F1659931878004.jpg?alt=media&token=d1269c89-1550-4d05-ab81-38c6cf740597",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O473302%2F1659931878065.jpg?alt=media&token=c598ab0f-5302-4fd7-8b01-c153e932f66e"
+      ],
+      "propertyLocation": [
+        "45JJ+GC3, Dutta colony, Banaras chowk, Ambikapur, Chhattisgarh",
+        "23.131266399999998,83.1811136"
+      ],
+      "propertyPrice": 10000,
+      "propertyType": "House",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1659932995821,
+      "listedBy": "Owner",
+      "propertyArea": "2000 sq.ft",
+      "propertyAvailability": "Booked",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "+91942400000",
+      "propertyDesc": "3BHK flat for family at Dutta colony",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Semi Furnished",
+      "propertyId": "RP10030",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659932995837.jpg?alt=media&token=e3aa22f2-5c50-45cc-919a-9ea519f967b2",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659932997005.jpg?alt=media&token=6befee99-c34a-4d5c-b745-f077e114192a",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659932998226.jpg?alt=media&token=18e60f45-2cee-4d27-ad34-09467c655e2a",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659932999352.jpg?alt=media&token=8bb18f9a-93ad-4b32-bcef-c2a4b811210a",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659933001428.jpg?alt=media&token=7d5f14ae-19e6-4db8-8a50-24b5ceed7143",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659933000268.jpg?alt=media&token=879c2d22-7b4e-4ccb-a5ba-1cffa17480f7",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659933002594.jpg?alt=media&token=7285f597-f18f-42c5-b18b-da49da15210f",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659933003481.jpg?alt=media&token=2df7f639-e230-48cd-b636-2b8bfb771231",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659933005245.jpg?alt=media&token=798a6503-71d5-4c76-897e-f37859ac21ea",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659933004241.jpg?alt=media&token=ecac42ad-dac4-4f3f-9915-ce65c2bf5180",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O372934%2F1659933006130.jpg?alt=media&token=1e9495eb-0f18-43b8-ad70-b75307904e85"
+      ],
+      "propertyLocation": [
+        "45JJ+GC3, Dutta colony, Banaras chowk, Ambikapur, Chhattisgarh",
+        "23.131266399999998,83.1811136"
+      ],
+      "propertyPrice": 12000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1660022912045,
+      "listedBy": "Rento Team",
+      "propertyArea": "500 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls/Boys/Family",
+      "propertyContact": "+91831900000",
+      "propertyDesc": "1BHK Flat at Krishna nagar colony",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 2$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10031",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O581316%2F1660022912060.jpg?alt=media&token=8b769da1-e5eb-406c-8be4-0301922136d4",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O581316%2F1660022913020.jpg?alt=media&token=16b71f3c-d3cf-49a8-af9d-d9b36052d3e0",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O581316%2F1660022914065.jpg?alt=media&token=de792b90-0fbf-4d98-a39e-181e9adcdc48"
+      ],
+      "propertyLocation": [
+        "Near Time out cinema, Krishna nagar colony, Namnakala, Ambikapur, Chhattisgarh",
+        "23.128452199999998,83.1751792"
+      ],
+      "propertyPrice": 5500,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1660023676370,
+      "listedBy": "Rento Team",
+      "propertyArea": "550 sq.ft",
+      "propertyAvailability": "Booked",
+      "propertyAvailableFor": "Girls/Boys/Family",
+      "propertyContact": "+91831900000",
+      "propertyDesc": "1BHK Flat at Krishna nagar colony",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows"
+      ],
+      "propertyFloor": "Total Floor : 2$2nd Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10032",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O387745%2F1660023676372.jpg?alt=media&token=198816ab-7258-493a-8aeb-6cd5f3e08721",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O387745%2F1660023677309.jpg?alt=media&token=9c698e46-7ec7-4b20-aa01-c6d4f1c7e48c",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O387745%2F1660023678238.jpg?alt=media&token=1df9b94f-8e84-4fdf-980e-27f0395349a1",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O387745%2F1660023679118.jpg?alt=media&token=4235979f-b94c-438f-a514-9fd1820e26c0",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O387745%2F1660023680061.jpg?alt=media&token=9238058e-66af-4983-aeae-cb65023cf573"
+      ],
+      "propertyLocation": [
+        "Near Time Out Cinema, Krishna nagar colony, Namnakala, Ambikapur, Chhattisgarh",
+        "23.128452199999998,83.1751792"
+      ],
+      "propertyPrice": 6500,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1660025575468,
+      "listedBy": "Rento Team",
+      "propertyArea": "1200 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "+91890400000",
+      "propertyDesc": "2BHK Flat at Krishna nagar colony",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10033",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O268884%2F1660025576587.jpg?alt=media&token=3e451039-b99d-4dd5-a7b9-8f1caa4b2933",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O268884%2F1660025575470.jpg?alt=media&token=5acfe8b0-e70d-4ad3-abe6-146e1ce57e50",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O268884%2F1660025577487.jpg?alt=media&token=1c9b18aa-6698-4bfb-8bfb-42aca354e51b",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O268884%2F1660025578416.jpg?alt=media&token=81db0f18-3a81-4b1d-9ea4-9db047cc0bc7",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O268884%2F1660025579959.jpg?alt=media&token=4c9de006-24e9-43a8-97c7-ae7f16c57834",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O268884%2F1660025579154.jpg?alt=media&token=fca4acde-7060-4221-89b5-2c8703ffe4ff",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O268884%2F1660025580739.jpg?alt=media&token=b7dcac77-90a3-4030-8344-1e1ae1a8ba36",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O268884%2F1660025581674.jpg?alt=media&token=039091ab-1acf-49ef-8181-005cf255976d"
+      ],
+      "propertyLocation": [
+        "Krishana nagar colony, Near Time Out Cinema, Namnakala, Ambikapur, Chhattisgarh",
+        "23.1284147,83.17518009999999"
+      ],
+      "propertyPrice": 8000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1660027872062,
+      "listedBy": "Rento Team",
+      "propertyArea": "500 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Family",
+      "propertyContact": "+919406200000",
+      "propertyDesc": "2BHK Flat at Bauri para\n",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Pooja room ,add"
+      ],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10034",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O356549%2F1660027872290.jpg?alt=media&token=bade7735-186c-419c-bf01-6f25f0d41580",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O356549%2F1660027872066.jpg?alt=media&token=8f50ae3f-ac14-4aee-9621-fb7780da34c8",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O356549%2F1660027872354.jpg?alt=media&token=a9770dac-4c70-46c6-a6a3-9ebdb0e5169f",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O356549%2F1660027872406.jpg?alt=media&token=235b54ea-793c-478e-92c2-e6a04d317c47",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O356549%2F1660027872570.jpg?alt=media&token=5a04f979-0553-4856-bdc5-5508f38eba09",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O356549%2F1660027872748.jpg?alt=media&token=aba1e176-1b5f-4687-a6a5-089d71377c1c"
+      ],
+      "propertyLocation": [
+        " Mahadev Gali, Bauri para, Ambikapur, Chhattisgarh",
+        "23.1289443,83.2102125"
+      ],
+      "propertyPrice": 5000,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1660799612952,
+      "listedBy": "Rento Team",
+      "propertyArea": "200 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "Girls",
+      "propertyContact": "+9173800000",
+      "propertyDesc": "Single room at Patelpara",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Shelves(Rack),shelves",
+        "Bed,bed",
+        "Fan(Ceiling),ceiling_fan"
+      ],
+      "propertyFloor": "Total Floor : 1$1st Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Furnished",
+      "propertyId": "RP10035",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O280027%2F1660799612964.jpg?alt=media&token=9df83434-7560-49d6-8669-beb50bfcfb9e",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O280027%2F1660799614080.jpg?alt=media&token=2c83dfb6-6c19-4c77-9df9-d37fd10bf9ff"
+      ],
+      "propertyLocation": [
+        "patel para, bnaras road , Ambikapur, Chhattisgarh",
+        "23.1387164,83.17976209999999"
+      ],
+      "propertyPrice": 3000,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1660896855782,
+      "listedBy": "Rento Team",
+      "propertyArea": "1700 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "All",
+      "propertyContact": "+91940600000",
+      "propertyDesc": "3BHK flat at Gandhi nagar",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "UnFurnished",
+      "propertyId": "RP10036",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856029.jpg?alt=media&token=b82da6a5-9698-4257-abf4-ca74762841c9",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896855796.jpg?alt=media&token=f2394b8b-6725-4ff6-9946-7229b835960b",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856123.jpg?alt=media&token=dc4b908c-14ff-4f44-9c38-2467d2e2419b",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856201.jpg?alt=media&token=aba3b009-d3c9-454c-b75a-ad4bdd0bb78e",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856287.jpg?alt=media&token=8c77595b-71ef-44b0-91e2-c56f6f6d8c22",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856375.jpg?alt=media&token=d80bb222-58b2-456c-9a4d-6413a887f218",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856461.jpg?alt=media&token=4e29d61d-6935-40e8-9abd-a6799b9a81d9",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856552.jpg?alt=media&token=42079e3e-eb1f-472b-9636-badbaf1e3d69",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856641.jpg?alt=media&token=e11980d4-8159-4456-8b10-f8be522bf32b"
+      ],
+      "propertyLocation": [
+        "turra pani road, Near Bandhan hotel , Ambikapur, Chhattisgarh",
+        "23.155108499999997,83.1789932"
+      ],
+      "propertyPrice": 7500,
+      "propertyType": "Flat",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    },
+    {
+      "dateAdded": 1660909182964,
+      "listedBy": "Rento Team",
+      "propertyArea": "1700 sq.ft",
+      "propertyAvailability": "Available",
+      "propertyAvailableFor": "All",
+      "propertyContact": "+9182300000",
+      "propertyDesc": "2BHK flat at Bauri para ",
+      "propertyFeatures": [
+        "Balcony,balcony",
+        "Parking,parking",
+        "Water,water",
+        "Electricity (Chargeable),power",
+        "Bathroom(Attached),bathroom",
+        "Window,windows",
+        "Shelves(Rack),shelves"
+      ],
+      "propertyFloor": "Total Floor : 1$Ground Floor",
+      "propertyFor": "Rent/Lease",
+      "propertyFurnished": "Unfurnished",
+      "propertyId": "RP10037",
+      "propertyImage": [
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O636819%2F1660909182967.jpg?alt=media&token=6e974276-9b94-4f7c-9854-3678d7a2759b",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O636819%2F1660909183149.jpg?alt=media&token=34fca245-1667-4900-99da-a984152c2191",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O636819%2F1660909183235.jpg?alt=media&token=d140c20e-11e7-46f5-ad65-02465252ed5c",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O636819%2F1660909183328.jpg?alt=media&token=76d783f2-3488-407d-9f69-338bbfacdfff",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O636819%2F1660909183413.jpg?alt=media&token=346e5f62-b796-47db-ba7b-260768134753",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O636819%2F1660909183526.jpg?alt=media&token=af4c7735-770e-4640-9c0d-f06e6440be7f",
+        "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O636819%2F1660909183644.jpg?alt=media&token=27831045-3c2c-4435-811a-dc1bbe6dc3a2"
+      ],
+      "propertyLocation": [
+        "Bauripara, near Alka Steel, Bouripara, Bauri para , Ambikapur, Chhattisgarh",
+        "23.1295723,83.20579900000001"
+      ],
+      "propertyPrice": 8000,
+      "propertyType": "Room",
+      "restriction": null,
+      "verified": true,
+      "__collections__": {}
+    }
+
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": 1,
+      "productId": 7,
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "productId": 25,
+      "quantity": 2
+    }
+  ]
+}
