@@ -1,7 +1,6 @@
-import React, { useState } from 'react'
+
 import {
   Box,
-  chakra,
   Container,
   Stack,
   Text,
@@ -13,87 +12,64 @@ import {
   SimpleGrid,
   StackDivider,
   useColorModeValue,
-  VisuallyHidden,
   List,
   ListItem,
 } from '@chakra-ui/react';
-import { FaInstagram, FaTwitter, FaYoutube } from 'react-icons/fa';
-import { MdLocalShipping } from 'react-icons/md';
 import { useCurrentParamProduct } from '../hooks/useCurrentParamProduct';
 import { Carousel } from 'react-responsive-carousel';
-
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 export default function EachProductPage() {
-//  const [data,setData] = useState()
   const {currentProduct, id} = useCurrentParamProduct()
 
 console.log("asas",currentProduct)
 console.log(id)
+ 
+let data = currentProduct
 
 
-// const {
-//         dateAdded,
-//         listedBy,
-//         propertyArea,
-//         propertyAvailability,
-//         propertyAvailableFor,
-//         propertyContact,
-//         propertyDesc,
-//         propertyFeatures,
-//         propertyFloor,
-//         propertyFor,
-//         propertyFurnished,
-//         propertyId,
-//         propertyImage,
-//         propertyLike,
-//         propertyLocation,
-//         propertyPrice,
-//         propertyType,
-//         restriction,
-//         verified
-//         } = currentProduct
 
-const data = {
-  "dateAdded": 1660896855782,
-  "listedBy": "Rento Team",
-  "propertyArea": "1700 sq.ft",
-  "propertyAvailability": "Available",
-  "propertyAvailableFor": "All",
-  "propertyContact": "+91940600000",
-  "propertyDesc": "3BHK flat at Gandhi nagar",
-  "propertyFeatures": [
-    "Balcony,balcony",
-    "Parking,parking",
-    "Water,water",
-    "Electricity (Chargeable),power",
-    "Bathroom(Attached),bathroom",
-    "Window,windows",
-    "Shelves(Rack),shelves"
-  ],
-  "propertyFloor": "Total Floor : 1$Ground Floor",
-  "propertyFor": "Rent/Lease",
-  "propertyFurnished": "UnFurnished",
-  "propertyId": "RP10036",
-  "propertyImage": [
-    "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856029.jpg?alt=media&token=b82da6a5-9698-4257-abf4-ca74762841c9",
-    "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896855796.jpg?alt=media&token=f2394b8b-6725-4ff6-9946-7229b835960b",
-    "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856123.jpg?alt=media&token=dc4b908c-14ff-4f44-9c38-2467d2e2419b",
-    "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856201.jpg?alt=media&token=aba3b009-d3c9-454c-b75a-ad4bdd0bb78e",
-    "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856287.jpg?alt=media&token=8c77595b-71ef-44b0-91e2-c56f6f6d8c22",
-    "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856375.jpg?alt=media&token=d80bb222-58b2-456c-9a4d-6413a887f218",
-    "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856461.jpg?alt=media&token=4e29d61d-6935-40e8-9abd-a6799b9a81d9",
-    "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856552.jpg?alt=media&token=42079e3e-eb1f-472b-9636-badbaf1e3d69",
-    "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856641.jpg?alt=media&token=e11980d4-8159-4456-8b10-f8be522bf32b"
-  ],
-  "propertyLocation": [
-    "turra pani road, Near Bandhan hotel , Ambikapur, Chhattisgarh",
-    "23.155108499999997,83.1789932"
-  ],
-  "propertyPrice": 7500,
-  "propertyType": "Flat",
-  "restriction": null,
-  "verified": true,
-  "__collections__": {}
-}
+// const data = {
+//   "dateAdded": 1660896855782,
+//   "listedBy": "Rento Team",
+//   "propertyArea": "1700 sq.ft",
+//   "propertyAvailability": "Available",
+//   "propertyAvailableFor": "All",
+//   "propertyContact": "+91940600000",
+//   "propertyDesc": "3BHK flat at Gandhi nagar",
+//   "propertyFeatures": [
+//     "Balcony,balcony",
+//     "Parking,parking",
+//     "Water,water",
+//     "Electricity (Chargeable),power",
+//     "Bathroom(Attached),bathroom",
+//     "Window,windows",
+//     "Shelves(Rack),shelves"
+//   ],
+//   "propertyFloor": "Total Floor : 1$Ground Floor",
+//   "propertyFor": "Rent/Lease",
+//   "propertyFurnished": "UnFurnished",
+//   "propertyId": "RP10036",
+//   "propertyImage": [
+//     "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856029.jpg?alt=media&token=b82da6a5-9698-4257-abf4-ca74762841c9",
+//     "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896855796.jpg?alt=media&token=f2394b8b-6725-4ff6-9946-7229b835960b",
+//     "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856123.jpg?alt=media&token=dc4b908c-14ff-4f44-9c38-2467d2e2419b",
+//     "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856201.jpg?alt=media&token=aba3b009-d3c9-454c-b75a-ad4bdd0bb78e",
+//     "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856287.jpg?alt=media&token=8c77595b-71ef-44b0-91e2-c56f6f6d8c22",
+//     "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856375.jpg?alt=media&token=d80bb222-58b2-456c-9a4d-6413a887f218",
+//     "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856461.jpg?alt=media&token=4e29d61d-6935-40e8-9abd-a6799b9a81d9",
+//     "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856552.jpg?alt=media&token=42079e3e-eb1f-472b-9636-badbaf1e3d69",
+//     "https://firebasestorage.googleapis.com/v0/b/rent-online-17b56.appspot.com/o/Property%2FR2022O619632%2F1660896856641.jpg?alt=media&token=e11980d4-8159-4456-8b10-f8be522bf32b"
+//   ],
+//   "propertyLocation": [
+//     "turra pani road, Near Bandhan hotel , Ambikapur, Chhattisgarh",
+//     "23.155108499999997,83.1789932"
+//   ],
+//   "propertyPrice": 7500,
+//   "propertyType": "Flat",
+//   "restriction": null,
+//   "verified": true,
+//   "__collections__": {}
+// }
   return (
     <Container maxW={'6xl'}>
       <SimpleGrid
@@ -106,13 +82,14 @@ const data = {
              showArrows={true}
              showThumbs={false}
              infiniteLoop={true}
-             interval={3000}
-            //  transitionTime={1000}
+             interval={2000}
+             transitionTime={500}
+            
            >
-            {data.propertyImage && data.propertyImage.map((el) =>{
-             return <div style={{height:"30rem",width:"100%",padding:"1rem 1rem 0 1rem"}} >
-                  <img src={el} alt="pic" style={{height:"100%",width:"100%"}}/>
-              </div>
+            {data?.propertyImage && data?.propertyImage.map((el) =>{
+             return <Box style={{height:"30rem",width:"100%",padding:"1rem 1rem 0 1rem"}} >
+                  <Image src={el} alt="pic" style={{height:"100%",width:"100%"}}/>
+              </Box>
             })}
           </Carousel>
         </Flex>
@@ -128,7 +105,7 @@ const data = {
               color={useColorModeValue('gray.900', 'gray.400')}
               fontWeight={300}
               fontSize={'4xl'}>
-              ₹ {data.propertyPrice} / Month
+              ₹ {data?.propertyPrice} / Month
             </Text>
           </Box>
 
@@ -145,10 +122,10 @@ const data = {
                 color={useColorModeValue('gray.500', 'gray.400')}
                 fontSize={'2xl'}
                 fontWeight={'300'}>
-                {/* {data.propertyDesc} */}
+                {/* {data?.propertyDesc} */}
               </Text>
               <Text fontSize={'4xl'}>
-              Address: {data.propertyDesc}
+              Address: {data?.propertyDesc}
               </Text>
             </VStack>
             <Box>
@@ -172,7 +149,7 @@ const data = {
                   <ListItem>Chronometer</ListItem>
                   <ListItem>Small seconds</ListItem>
                 </List> */}
-                {data.propertyFeatures.map((el) => {
+                {data?.propertyFeatures.map((el) => {
                   return <Text key={el.propertyId}> {el}</Text>
                 })}
               </SimpleGrid>
@@ -192,43 +169,43 @@ const data = {
                   <Text as={'span'} fontWeight={'bold'}>
                   propertyType:
                   </Text>{' '}
-                  { data.propertyType}
+                  { data?.propertyType}
                 </ListItem>
                 <ListItem>
                   <Text as={'span'} fontWeight={'bold'}>
                   propertyFloor:
                   </Text>{' '}
-                  { data.propertyFloor}
+                  { data?.propertyFloor}
                 </ListItem>
                 <ListItem>
                   <Text as={'span'} fontWeight={'bold'}>
                   propertyFor:
                   </Text>{' '}
-                  { data.propertyFor}
+                  { data?.propertyFor}
                 </ListItem>
                 <ListItem>
                   <Text as={'span'} fontWeight={'bold'}>
                   propertyFurnished:
                   </Text>{' '}
-                  { data.propertyFurnished}
+                  { data?.propertyFurnished}
                 </ListItem>
                 <ListItem>
                   <Text as={'span'} fontWeight={'bold'}>
                   propertyArea:
                   </Text>{' '}
-                  { data.propertyArea}
+                  { data?.propertyArea}
                 </ListItem>
                 <ListItem>
                   <Text as={'span'} fontWeight={'bold'}>
                   propertyContact:
                   </Text>{' '}
-                  { data.propertyContact}
+                  { data?.propertyContact}
                 </ListItem>
                 <ListItem>
                   <Text as={'span'} fontWeight={'bold'}>
                   propertyLocation:
                   </Text>{' '}
-                  { data.propertyLocation.join(" ")}{' '}
+                  { data?.propertyLocation.join(" ")}{' '}
                 </ListItem>
               </List>
             </Box>
@@ -249,11 +226,6 @@ const data = {
             }}>
             Book Now
           </Button>
-
-          {/* <Stack direction="row" alignItems="center" justifyContent={'center'}>
-            <MdLocalShipping />
-            <Text>2-3 business days delivery</Text>
-          </Stack> */}
         </Stack>
       </SimpleGrid>
     </Container>

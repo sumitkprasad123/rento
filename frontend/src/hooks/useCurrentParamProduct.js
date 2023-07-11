@@ -5,7 +5,7 @@ import { useDispatch, useSelector } from "react-redux";
 
 const useCurrentParamProduct = () => {
     const {propertyId} = useParams();
-    const products = useSelector((store) => store.AppReducer.data) || [];
+    const products = useSelector((store) => store.AppReducer.data) 
     const dispatch = useDispatch()
     const [currentProduct, setCurrentProduct] = useState()
 

@@ -21,8 +21,8 @@ const HomeTop = () => {
              showArrows={true}
              showThumbs={false}
              infiniteLoop={true}
-             interval={3000}
-             transitionTime={2000}
+             interval={2500}
+             transitionTime={700}
            >
             {image.map((el) =>{
              return <div style={{height:"30rem",width:"100%",padding:"1rem 1rem 0 1rem"}} >

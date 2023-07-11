@@ -1,4 +1,4 @@
-import { Box, Checkbox, CheckboxGroup, Heading, Radio, RadioGroup, Stack } from '@chakra-ui/react'
+import { Box, Checkbox, CheckboxGroup, Divider, Heading, Radio, RadioGroup, Stack, Text } from '@chakra-ui/react'
 import React, { useEffect, useState } from 'react'
 import { useSearchParams } from 'react-router-dom';
 
@@ -28,7 +28,8 @@ const FilterAndSort = () => {
     
   return (
     <Box p={6}>
-        <Heading>Filter</Heading>
+        <Heading mt={3}>Filter</Heading>
+        <Text mt={3} mb={2}><b>based on room availability</b></Text>
         <CheckboxGroup colorScheme='green' value={filterValues} onChange={handleFilterChange} >
           <Stack spacing={[1, 3]} direction={['column']}>
               <Checkbox value='Available'>Available</Checkbox>
@@ -36,13 +37,14 @@ const FilterAndSort = () => {
           </Stack>
        </CheckboxGroup>
 
-    <Heading>Sort</Heading>
-    <RadioGroup value={sortType} onChange={handleSortChange} >
-      <Stack direction='column'>
-        <Radio value='asc'>Asc</Radio>
-        <Radio value='desc'>Desc</Radio>
-      </Stack>
-    </RadioGroup>
+      <Heading mt={8} >Sort</Heading>
+      <Text mt={3} mb={2}><b>based on price</b></Text>
+      <RadioGroup value={sortType} onChange={handleSortChange} >
+        <Stack direction='column'>
+          <Radio value='asc'>Low to High</Radio>
+          <Radio value='desc'>High to low </Radio>
+        </Stack>
+      </RadioGroup>
     </Box>
   )
 }

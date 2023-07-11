@@ -5,6 +5,7 @@ import {
       Card,
       CardBody,
       CardFooter,
+      Center,
       Divider,
       Flex,
       Grid,
@@ -37,7 +38,7 @@ const ser_img = [
 const Service = () => {
   return (
     <Box p={10}>
-        <Heading as="h1">Service</Heading>
+        <Center><Heading as="h1">Service</Heading></Center>
         <Grid  gap={6} templateColumns={ 
             { 
                 sm:'repeat(1, 1fr)',
