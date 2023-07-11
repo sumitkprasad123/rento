@@ -34,12 +34,13 @@ const SPP = ({
     //   '90%', // 30em-48em
     //   '100%', // 62em+
     // ]}
+    
     >
       <Card
         direction={{ base: 'row', sm: 'row'}}
         overflow='hidden'
         variant='outline'
-        
+        p={3}
       >
         <Image
           objectFit='cover'

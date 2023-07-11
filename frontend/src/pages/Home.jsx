@@ -1,13 +1,14 @@
 import React from 'react'
 import HomeTop from '../components/HomeTop'
 import Service from '../components/Service'
+import { Box } from '@chakra-ui/react'
 
 const Home = () => {
   return (
-    <div>
+    <Box >
       <HomeTop/>
       <Service/>
-    </div>
+    </Box>
   )
 }
 

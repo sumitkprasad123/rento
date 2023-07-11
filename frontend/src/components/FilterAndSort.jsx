@@ -1,4 +1,4 @@
-import { Box, Checkbox, CheckboxGroup, Divider, Heading, Radio, RadioGroup, Stack, Text } from '@chakra-ui/react'
+import { Box, Checkbox, CheckboxGroup, Heading, Radio, RadioGroup, Stack, Text } from '@chakra-ui/react'
 import React, { useEffect, useState } from 'react'
 import { useSearchParams } from 'react-router-dom';
 

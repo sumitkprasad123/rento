@@ -84,7 +84,9 @@ let data = currentProduct
              infiniteLoop={true}
              interval={2000}
              transitionTime={500}
-            
+             showStatus={false}
+             swipeable={true}
+             emulateTouch={true}
            >
             {data?.propertyImage && data?.propertyImage.map((el) =>{
              return <Box style={{height:"30rem",width:"100%",padding:"1rem 1rem 0 1rem"}} >

@@ -43,9 +43,9 @@ const Product = () => {
     },[location.search])
  
   return (
-    <div>
+    <Box>
         <Flex p={10} flexDirection={{base:"column",md:"column",lg:"row"}}>
-        <Box minW='300px' gap={4}>
+        <Box minW='260px' gap={4} >
             <FilterAndSort />
         </Box>
         <Box>
@@ -67,7 +67,7 @@ const Product = () => {
         </Box>
         </Flex>
         {/* </Flex> */}
-    </div>
+    </Box>
   )
 }
 

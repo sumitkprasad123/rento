@@ -23,6 +23,9 @@ const HomeTop = () => {
              infiniteLoop={true}
              interval={2500}
              transitionTime={700}
+             showStatus={false}
+             swipeable={true}
+             emulateTouch={true}
            >
             {image.map((el) =>{
              return <div style={{height:"30rem",width:"100%",padding:"1rem 1rem 0 1rem"}} >
